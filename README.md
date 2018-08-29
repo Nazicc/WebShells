@@ -1,2 +1,0 @@
-# WebShells
-ZHacker WebShells
